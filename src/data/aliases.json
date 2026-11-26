@@ -1,0 +1,177 @@
+[
+  {
+    "foodName": "Nasi Uduk",
+    "nutritionId": "nutrition-001",
+    "aliases": ["nasi uduk", "uduk", "nasi uduk betawi", "nasi gurih", "coconut rice"]
+  },
+  {
+    "foodName": "Lontong Sayur",
+    "nutritionId": "nutrition-002",
+    "aliases": ["lontong sayur", "lontong sayur padang", "lontong santan", "ketupat sayur"]
+  },
+  {
+    "foodName": "Nasi Goreng",
+    "nutritionId": "nutrition-003",
+    "aliases": ["nasi goreng", "nasgor", "fried rice", "nasi goreng ayam", "nasi goreng kampung", "nasi goreng telur"]
+  },
+  {
+    "foodName": "Nasi Warteg Komplit",
+    "nutritionId": "nutrition-004",
+    "aliases": ["nasi warteg", "warteg", "nasi campur warteg", "nasi rames", "nasi warung tegal"]
+  },
+  {
+    "foodName": "Ayam Goreng Kremes",
+    "nutritionId": "nutrition-005",
+    "aliases": ["ayam goreng kremes", "ayam kremes", "ayam goreng", "fried chicken", "ayam krispi"]
+  },
+  {
+    "foodName": "Sayur Asem",
+    "nutritionId": "nutrition-006",
+    "aliases": ["sayur asem", "sayur asam", "tamarind soup", "sayur asem betawi", "sayur asem sunda"]
+  },
+  {
+    "foodName": "Kopi Susu Gula Aren",
+    "nutritionId": "nutrition-007",
+    "aliases": ["kopi susu gula aren", "kopi susu aren", "es kopi susu", "kopi kenangan", "iced palm sugar coffee"]
+  },
+  {
+    "foodName": "Roti Bakar Cokelat",
+    "nutritionId": "nutrition-008",
+    "aliases": ["roti bakar cokelat", "roti bakar", "toast", "roti panggang", "roti bakar coklat keju"]
+  },
+  {
+    "foodName": "Nasi Padang Komplit",
+    "nutritionId": "nutrition-009",
+    "aliases": ["nasi padang", "padang rice", "nasi kapau", "nasi padang rames"]
+  },
+  {
+    "foodName": "Rendang Sapi",
+    "nutritionId": "nutrition-010",
+    "aliases": ["rendang", "rendang sapi", "beef rendang", "daging rendang"]
+  },
+  {
+    "foodName": "Gulai Ayam",
+    "nutritionId": "nutrition-011",
+    "aliases": ["gulai ayam", "chicken curry", "kare ayam", "kari ayam padang"]
+  },
+  {
+    "foodName": "Mie Goreng Jawa",
+    "nutritionId": "nutrition-012",
+    "aliases": ["mie goreng jawa", "mie goreng", "bakmi goreng", "fried noodles", "mi goreng"]
+  },
+  {
+    "foodName": "Mie Ayam",
+    "nutritionId": "nutrition-013",
+    "aliases": ["mie ayam", "mi ayam", "chicken noodle", "bakmi ayam", "mie ayam solo"]
+  },
+  {
+    "foodName": "Mie Ayam Bakso",
+    "nutritionId": "nutrition-014",
+    "aliases": ["mie ayam bakso", "mi ayam bakso", "bakmi ayam bakso", "yamie bakso"]
+  },
+  {
+    "foodName": "Ayam Geprek",
+    "nutritionId": "nutrition-015",
+    "aliases": ["ayam geprek", "geprek", "ayam geprek sambal bawang", "smashed chicken", "ayam katsu geprek"]
+  },
+  {
+    "foodName": "Nasi Ayam Bakar",
+    "nutritionId": "nutrition-016",
+    "aliases": ["ayam bakar", "nasi ayam bakar", "grilled chicken", "ayam panggang"]
+  },
+  {
+    "foodName": "Es Teh Manis",
+    "nutritionId": "nutrition-017",
+    "aliases": ["es teh", "es teh manis", "sweet iced tea", "teh manis dingin"]
+  },
+  {
+    "foodName": "Soto Betawi",
+    "nutritionId": "nutrition-018",
+    "aliases": ["soto betawi", "soto daging santan", "beef coconut soup"]
+  },
+  {
+    "foodName": "Soto Ayam",
+    "nutritionId": "nutrition-019",
+    "aliases": ["soto ayam", "soto lamongan", "soto madura", "chicken soup"]
+  },
+  {
+    "foodName": "Sop Buntut",
+    "nutritionId": "nutrition-020",
+    "aliases": ["sop buntut", "sup buntut", "oxtail soup"]
+  },
+  {
+    "foodName": "Nasi Liwet",
+    "nutritionId": "nutrition-021",
+    "aliases": ["nasi liwet", "liwet solo", "liwet sunda"]
+  },
+  {
+    "foodName": "Nasi Timbel Ayam",
+    "nutritionId": "nutrition-022",
+    "aliases": ["nasi timbel", "timbel ayam", "nasi timbel sunda"]
+  },
+  {
+    "foodName": "Sayur Lodeh",
+    "nutritionId": "nutrition-023",
+    "aliases": ["sayur lodeh", "lodeh", "vegetables in coconut milk"]
+  },
+  {
+    "foodName": "Chicken Katsu",
+    "nutritionId": "nutrition-024",
+    "aliases": ["chicken katsu", "katsu", "ayam katsu", "chicken cutlet"]
+  },
+  {
+    "foodName": "Bubur Ayam",
+    "nutritionId": "nutrition-025",
+    "aliases": ["bubur ayam", "buryam", "chicken porridge", "congee", "bubur cirebon"]
+  },
+  {
+    "foodName": "Gorengan Campur",
+    "nutritionId": "nutrition-026",
+    "aliases": ["gorengan", "bakwan", "tahu isi", "tempe mendoan", "pisang goreng", "bala-bala"]
+  },
+  {
+    "foodName": "Pecel Sayur",
+    "nutritionId": "nutrition-027",
+    "aliases": ["pecel", "pecel sayur", "pecel madiun", "vegetable peanut salad"]
+  },
+  {
+    "foodName": "Gado-gado",
+    "nutritionId": "nutrition-028",
+    "aliases": ["gado-gado", "gado gado", "gado2", "indonesian salad with peanut sauce"]
+  },
+  {
+    "foodName": "Nasi Kuning",
+    "nutritionId": "nutrition-029",
+    "aliases": ["nasi kuning", "yellow rice", "nasi kunyit"]
+  },
+  {
+    "foodName": "Sop Ayam",
+    "nutritionId": "nutrition-030",
+    "aliases": ["sop ayam", "sup ayam", "sop ayam klaten", "clear chicken soup"]
+  },
+  {
+    "foodName": "Bakso",
+    "nutritionId": "nutrition-031",
+    "aliases": ["bakso", "baso", "bakso sapi", "meatball soup", "mie bakso", "bakso urat"]
+  },
+  {
+    "foodName": "Pecel Lele",
+    "nutritionId": "nutrition-032",
+    "aliases": ["pecel lele", "lele goreng", "catfish with sambal", "pecel lele lamongan"]
+  },
+  {
+    "foodName": "Ayam Penyet",
+    "nutritionId": "nutrition-033",
+    "aliases": ["ayam penyet", "penyet", "ayam sambal terasi"]
+  },
+  {
+    "foodName": "Nasi Bakar Ayam",
+    "nutritionId": "nutrition-034",
+    "aliases": ["nasi bakar", "nasi bakar ayam", "grilled wrapped rice"]
+  },
+  {
+    "foodName": "Ketoprak",
+    "nutritionId": "nutrition-035",
+    "aliases": ["ketoprak", "ketoprak jakarta", "ketoprak betawi", "tofu and vermicelli salad"]
+  }
+]
